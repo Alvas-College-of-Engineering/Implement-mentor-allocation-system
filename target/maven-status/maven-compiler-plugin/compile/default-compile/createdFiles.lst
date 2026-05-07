@@ -1,0 +1,14 @@
+com\mentorallocation\dao\AllocationDAO.class
+com\mentorallocation\dao\StudentDAO.class
+com\mentorallocation\service\AllocationService.class
+com\mentorallocation\servlet\AllocateMentorServlet.class
+com\mentorallocation\util\DatabaseInitializer.class
+com\mentorallocation\dao\MentorDAO.class
+com\mentorallocation\model\Student.class
+com\mentorallocation\servlet\ViewAllocationsServlet$AllocationDetail.class
+com\mentorallocation\model\Allocation.class
+com\mentorallocation\servlet\AddMentorServlet.class
+com\mentorallocation\servlet\ViewAllocationsServlet.class
+com\mentorallocation\servlet\AddStudentServlet.class
+com\mentorallocation\model\Mentor.class
+com\mentorallocation\util\DBConnection.class
